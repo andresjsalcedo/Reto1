@@ -4,6 +4,7 @@
     --light: #ffffff;
     --grey: #545454;
     --info: #2668da;
+    --success: #67BE49;
 }
 body{
     background-color: #67BE49;
