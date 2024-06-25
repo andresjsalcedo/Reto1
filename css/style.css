@@ -1,0 +1,10 @@
+:root {
+    --primary: #3b5998;
+    --dark: #000000;
+    --light: #ffffff;
+    --grey: #545454;
+    --info: #2668da;
+}
+body{
+    background-color: #67BE49;
+}
