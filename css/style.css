@@ -11,7 +11,11 @@ body{
     --light: #ffffff;
     --grey: #545454;
     --info: #2668da;
-    --success: #67BE49;
+    --success: #5422be;
+}
+
+.navbar--{
+    background-color: var(--success);
 }
 
 /* LOGIN CONTAINER */
